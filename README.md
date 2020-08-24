@@ -1,7 +1,8 @@
-Gatling-performance-tests
+Gatling performance tests
 =========================
+Fully parametrized performance scenarios dedicated for stores based on Magento 2 e-commerce platform.
 
-The implementation is dedicated for performance testing of stores based on Magento 2 e-commerce platform, but you can customize it and use for your purposes as well.
+The implementation is dedicated for performance testing of stores based on Magento 2 e-commerce platform, however you can customize it and use for your purposes as well.
 Thanks to the gatling maven plugin it is fully parametrized, and easy to use e.g. in CI via Jenkins/Travis.
 
 To test it out, execute command with sample parametrization:
