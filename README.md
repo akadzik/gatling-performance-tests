@@ -12,6 +12,7 @@ To test it out, in the path with .pom file, execute command with sample parametr
 
 
 <h3>To do in the future:</h3>
+
 * Add shipping and payment step
 * Implement user registration, login and logout
 * Handle configurable products
